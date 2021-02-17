@@ -3,7 +3,8 @@ node_modules
 /dist
 
 *.txt
-
+*.log
+*.css
 # local env files
 .env.local
 .env.*.local
